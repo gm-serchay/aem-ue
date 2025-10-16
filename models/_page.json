@@ -7,13 +7,13 @@
           "component": "text",
           "valueType": "string",
           "name": "jcr:title",
-          "label": "Title"
+          "label": "Hello Title"
         },
         {
           "component": "text",
           "valueType": "string",
           "name": "jcr:description",
-          "label": "Description"
+          "label": "Hello Description"
         },
          {
           "component": "aem-tag",
