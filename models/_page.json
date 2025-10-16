@@ -28,7 +28,7 @@
           "valueType": "string",
           "name": "keywords",
           "multi": true,
-          "label": "Keywords"
+          "label": "Hello Keywords"
         }       
       ]
     }
