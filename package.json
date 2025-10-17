@@ -36,5 +36,10 @@
     "npm-run-all": "4.1.5",
     "stylelint": "16.21.1",
     "stylelint-config-standard": "38.0.0"
-  }
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "dotenv": "^17.2.3"
+  },
+  "clear-cache": "node hlxAdmin.js cache"
 }
