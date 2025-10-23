@@ -15,6 +15,15 @@
           "name": "jcr:description",
           "label": "Description"
         },
+	{
+          "component": "aem-tag",
+          "valueType": "string",
+	  "description": "Select an AEM tag",
+          "name": "cq:tags",
+          "multi": true,
+	  "rootPath": "/content/cq:tags/wknd-shared",
+          "label": "AEM Tag Picker"
+        },
         {
           "component": "text",
           "valueType": "string",
