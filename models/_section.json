@@ -50,8 +50,9 @@
         "hero",
         "cards",
         "columns",
+      	"adventure-cf",
         "fragment",
-	"teaser"
+	      "teaser"
       ]
     }
   ]
